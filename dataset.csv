@@ -1,0 +1,11 @@
+Income,Credit,Decision
+Very_High,Excellent,Authorized
+High,Good,Authorized
+Medium,Excellent,Authorized
+High,Good,Authorized
+Very_High,Good,Authorized
+Medium,Excellent,Authorized
+High,Bad,Request ID
+Medium,Bad,Request ID
+High,Bad,Reject
+Low,Bad,Call Police
